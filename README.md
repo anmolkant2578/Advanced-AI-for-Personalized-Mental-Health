@@ -1,6 +1,3 @@
-# Advanced-AI-for-Personalized-Mental-Health
-
-
 # Mentify
 
 #### 🌟 star this repo if you like it
